@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MUST knowledge Base</string>
+    <string name="introduction">
+        MUST Knowledge Base contains all the information about all faculties of the university for all Majors and different levels. Where the user can choose the college and then search for the majors, then the courses to know all the details of the courses such as the name of the course, prerequisites, level and know the course reference, which makes him familiar enough with the course.
+    </string>
+    <string name="businessEnglishBtn">Business English</string>
+    <string name="BusinessArabic">Business Arabic</string>
+
+    <string name="courseDetailsName">Course Name:</string>
+    <string name="courseID">course ID</string>
+    <string name="Prerequisite">Prerequisite</string>
+    <string name="courseIntroduction">course Introduction</string>
+    <string name="addToFavorite">Add to favorite</string>
+    <string name="change_language">change language</string>
+    <string name="darkmode">DarkMode</string>
+    <string name="logout">logout</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="References">References</string>
+    <string name="Done">Done</string>
+    <string name="Error">Error</string>
+    <string name="isBefore">this course had been added before to the favorite</string>
+    <string name="isnotBefore">this course added to the favorite successfully</string>
+    <string name="notValidURL">this url is not valid</string>
+    <string name="levelLabel">Level</string>
+</resources>

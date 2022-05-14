@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MUST Knowledge Base</string>
+    <string name="introduction">تحتوي قاعدة المعارف MUST على جميع المعلومات حول جميع كليات الجامعة لجميع التخصصات والمستويات المختلفة. حيث يمكن للمستخدم اختيار الكلية ثم البحث عن التخصصات ثم الدورات لمعرفة كل تفاصيل الدورات مثل اسم الدورة والمتطلبات الأساسية والمستوى ومعرفة مرجع الدورة مما يجعله على دراية كافية بالمقرر .
+</string>
+    <string name="businessEnglishBtn">Business English</string>
+    <string name="BusinessArabic">Business Arabic</string>
+
+
+    <string name="courseDetailsName">اسم المادة:</string>
+    <string name="courseID">رمز المادة</string>
+    <string name="Prerequisite">المواد المعتمدة</string>
+    <string name="courseIntroduction">نبذه</string>
+
+
+
+    <string name="addToFavorite">اضافه الى المفضلة</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="darkmode">الوضع الليلي</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="open">فتح</string>
+    <string name="close">غلق</string>
+    <string name="References">المراجع</string>
+    <string name="Done">تم</string>
+    <string name="Error">خطأ</string>
+    <string name="isBefore">تم إضافة هذه المادة مسبقا</string>
+    <string name="isnotBefore">تم اضافة هذه الماده بنجاح</string>
+    <string name="notValidURL">this url is not valid</string>
+    <string name="levelLabel">المستوى</string>
+
+</resources>

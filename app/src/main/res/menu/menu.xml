@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/change_language"
+        android:id="@+id/changeLanguage"
+        android:icon="@drawable/languageicon"/>
+    <item
+        android:icon="@drawable/darkmodeicon"
+        android:id="@+id/app_bar_switch"
+        android:title="@string/darkmode"
+        app:showAsAction="always"
+        app:actionLayout="@layout/switch_item" />
+    <item android:title="@string/logout"
+        android:id="@+id/logout"
+        android:icon="@drawable/logouticon"/>
+
+</menu>

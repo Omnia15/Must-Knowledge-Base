@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/20106/Desktop/New folder (3)/Library/app/src/main/res/layout/activity_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Omnia/StudioProjects/Library/app/src/main/res/layout/activity_details.xml" value="0.264" />
+        <entry key="..\:/Users/Omnia/StudioProjects/Library/app/src/main/res/layout/activity_home.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Omnia/StudioProjects/Library/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Omnia/StudioProjects/Library/app/src/main/res/layout/activity_majors.xml" value="0.25" />
+        <entry key="..\:/Users/Omnia/StudioProjects/Library/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/Users/Omnia/StudioProjects/Library/app/src/main/res/layout/majoritem.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Omnia/StudioProjects/Library/app/src/main/res/layout/switch_item.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/Omnia/StudioProjects/Library/app/src/main/res/menu/menu.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/drawable/favoriteicon.xml" value="0.1965" />
+        <entry key="app/src/main/res/drawable/homeicon.xml" value="0.1965" />
+        <entry key="app/src/main/res/drawable/languageicon.xml" value="0.278" />
+        <entry key="app/src/main/res/drawable/logouticon.xml" value="0.278" />
+        <entry key="app/src/main/res/drawable/must_logo_web_min.xml" value="0.278" />
+        <entry key="app/src/main/res/drawable/recenticon.xml" value="0.178" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.4946243286132813" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.14402173913043478" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2629241943359375" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.13333333333333333" />
+        <entry key="app/src/main/res/layout/courserecyclerviewitem.xml" value="0.48456891930621604" />
+        <entry key="app/src/main/res/layout/faculty_rv_item.xml" value="0.17572463768115942" />
+        <entry key="app/src/main/res/layout/fragment_favorite.xml" value="0.14402173913043478" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.15806159420289856" />
+        <entry key="app/src/main/res/layout/fragment_recent_open.xml" value="0.2862767537434896" />
+        <entry key="app/src/main/res/layout/majoritem.xml" value="0.4679856673530911" />
+        <entry key="app/src/main/res/layout/navigationdrawer.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/switch_item.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.651708984375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.178" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
